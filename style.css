@@ -1,0 +1,32 @@
+#button_sort {
+    display:none;
+    background-color:goldenrod;
+}
+    
+
+
+
+
+div{
+    padding-top:50px;
+    padding-bottom:50px;
+    font-size:30px;
+    color:goldenrod;
+
+}
+
+
+
+body{
+    background-color: grey;
+
+}
+
+h1{
+    font-size:50px;
+}
+
+h2{
+    font-size:40px;
+}
+
